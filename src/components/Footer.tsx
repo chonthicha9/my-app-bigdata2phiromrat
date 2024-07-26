@@ -20,7 +20,7 @@ export default function Footer() {
         </nav>
         <nav>
           <h6 className="footer-title">นโยบาย</h6>
-          <a className="link link-hover">123</a>
+          <a className="link link-hover">i love you</a>
           <a className="link link-hover">Privacy policy</a>
           <a className="link link-hover">Cookie policy</a>
         </nav>
