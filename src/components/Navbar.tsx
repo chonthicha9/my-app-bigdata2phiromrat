@@ -29,7 +29,7 @@ export default function Navbar() {
                 <a href="aecranking">AEC Ranking</a>
               </li>
               <li className="text-stone-600 hover:text-blue-600 hover:font-bold font-medium mx-4 my-1">
-                <a href="evaluation">การประเมินยุทธศาสตร์ชาติ</a>
+                <a href="productlist">การประเมินยุทธศาสตร์ชาติ</a>
               </li>
               <li className="text-stone-600 hover:text-blue-600 hover:font-bold font-medium mx-4 my-1">
                 <a href="#">ติดต่อ</a>
